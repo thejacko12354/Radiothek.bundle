@@ -1,0 +1,74 @@
+[
+    {
+        "title"           :     "LoungeFM",
+        "genre"           :     ["Lounge","Relax"],
+        "country"         :     ["Österreich"],
+        "link"            :     ["http://stream.lounge.fm/loungefm128.m3u"],
+        "icon"            :     "icon-loungefm.png",
+        "art"             :     "art-loungefm.jpg"
+    },
+    {
+        "title"           :     "Ö1",
+        "genre"           :     ["Klassik","Kultur","Information","Bildung","Wissenschaft","Gesundheit","Konzerte","Oper","Theater","Literatur","Kunst","Kabarett"],
+        "country"         :     ["Österreich"],
+        "link"            :     ["http://mp3stream3.apasf.apa.at:8000/"],
+        "icon"            :     "icon-oe1.png",
+        "art"             :     "art-oe1.jpg"
+    },
+    {
+        "title"           :     "Ö3, Hitradio Ö3",
+        "genre"           :     ["Pop","Rock","80er","90er","Heute"],
+        "country"         :     ["Österreich"],
+        "link"            :     ["http://mp3stream7.apasf.apa.at:8000/"],
+        "icon"            :     "icon-oe3.png",
+        "art"             :     "art-oe3.jpg"
+    },
+    {
+        "title"           :     "FM4",
+        "genre"           :     ["Soundpark","österreichische Musik","Indie","Elektronik","Festivals","Konzerte","Jugendkultur"],
+        "country"         :     ["Österreich"],
+        "link"            :     ["http://mp3stream1.apasf.apa.at:8000/"],
+        "icon"            :     "icon-fm4.png",
+        "art"             :     "art-fm4.jpg"
+    },
+    {
+        "title"           :     "KRONEHIT",
+        "genre"           :     ["R'n'B","Rhythm Pop","Dance","House","Black","Lounge","Relax"],
+        "country"         :     ["Österreich"],
+        "link"            :     [["KRONEHIT HD - Link 1","http://onair.krone.at/kronehit-hd.mp3"],["KRONEHIT HD - Link 2","http://streamcontrol.q-nic.eu/listen.pls?p=8020"],["KRONEHIT","http://onair.krone.at/kronehit.mp3.m3u"],["KRONEHIT Fresh","http://onair.krone.at/kronehit-fresh.mp3.m3u"],["KRONEHIT Dance","http://onair.krone.at/kronehit-dance.mp3.m3u"],["KRONEHIT House","http://onair.krone.at/kronehit-house.mp3.m3u"],["KRONEHIT 90er Dance","http://onair.krone.at/kronehit-90sdance.mp3.m3u"],["KRONEHIT Black","http://onair.krone.at/kronehit-hithop.mp3.m3u"],["KRONEHIT Vollgas","http://onair.krone.at/kronehit-vollgas.mp3.m3u"],["KRONEHIT y.a.m.","http://onair.krone.at/kronehit-yam.mp3"],["KRONEHIT Rock","http://onair.krone.at/kronehit-fanradio.mp3"],["KRONEHIT Classics","http://onair.krone.at/kronehit-classics.mp3"],["KRONEHIT Relax","http://onair.krone.at/kronehit-relax.mp3"]],
+        "icon"            :     "icon-kronehit.png",
+        "art"             :     "art-kronehit.jpg"
+    },
+    {
+        "title"           :     "Life Radio",
+        "genre"           :     ["Pop","Rock","Austro-Pop"],
+        "country"         :     ["Österreich"],
+        "link"            :     [["Life Radio","http://liferadio.liwest.at:8000/liferadio"],["Life Radio - Made in Austria","http://liferadio.liwest.at:8000/mia"],["Life Radio - Die 80er","http://liferadio.liwest.at:8000/studio30"],["Life Radio - Love Life","http://liferadio.liwest.at:8000/special"],["Life Radio - Newcomer Radio","http://liferadio.liwest.at:8000/newcomer"],["Life Radio - Rock Life","http://liferadio.liwest.at:8000/rocklife"],["Life Radio - Summer","http://liferadio.liwest.at:8000/summer"],["Life Radio - X-Mas","http://liferadio.liwest.at:8000/xmas"]],
+        "icon"            :     "icon-liferadio.png",
+        "art"             :     "art-liferadio.jpg"
+    },
+    {
+        "title"           :     "Bayerischer Rundfunk (BR)",
+        "genre"           :     ["Deutschland"],
+        "country"         :     ["Deutschland"],
+        "link"            :     [["Bayern 1","http://streams.br-online.de/bayern1_2.m3u"],["Bayern 2","http://streams.br-online.de/bayern2_2.m3u"],["Bayern 3","http://streams.br-online.de/bayern3_2.m3u"],["Bayern Klassik","http://streams.br-online.de/br-klassik_2.m3u"],["B5 Aktuell","http://streams.br-online.de/b5aktuell_2.m3u"],["B5 Plus","http://streams.br-online.de/b5plus_2.m3u"],["Bayern Plus","http://streams.br-online.de/bayernplus_2.m3u"],["ON3-Radio","http://streams.br-online.de/jugend-radio_2.m3u"]],
+        "icon"            :     "icon-default.png",
+        "art"             :     "art-default.jpg"
+    },
+    {
+        "title"           :     "Deutschlandradio",
+        "genre"           :     ["Deutschland"],
+        "country"         :     ["Deutschland"],
+        "link"            :     ["http://www.dradio.de/streaming/dkultur.m3u"],
+        "icon"            :     "icon-default.png",
+        "art"             :     "art-default.jpg"
+    },
+    {
+        "title"           :     "sunshine live",
+        "genre"           :     ["House","Trance","Handsup","Disco"],
+        "country"         :     ["Deutschland"],
+        "link"            :     [["sunshine live - Link 1","http://62.26.214.248/sunshinelive/livestream.mp3"],["sunshine live - Link 2","http://62.27.44.59/sunshinelive/livestream.mp3"],["sunshine live - Link 3","http://62.26.214.248:80/sunshinelive/livestream.mp3"]],
+        "icon"            :     "icon-sunshinelive.png",
+        "art"             :     "art-sunshinelive.jpg"
+    }
+]
